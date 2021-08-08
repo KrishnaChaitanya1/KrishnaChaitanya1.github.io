@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com/"
+baseURL: "https://krishnachaitanya1.github.io/"
 title: Krishna's Blog
 paginate: 6
 theme: PaperMod
@@ -47,9 +47,9 @@ params:
     # profile-mode
     profileMode:
         enabled: false # needs to be explicitly set
-        title: ExampleSite
-        subtitle: "This is subtitle"
-        imageUrl: "<img location>"
+        title: Krishna's Blog
+        subtitle: "Multi Cloud Developer | Machine Learning and Data Science Enthusiast"
+        #imageUrl: "<img location>"
         imageWidth: 120
         imageHeight: 120
         imageTitle: my image
@@ -62,7 +62,7 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "Krishna Chaitanya Reddy V"
-        Content: Multi-Cloud Developer having passion towards Machine Learning, Data Science and Games
+        Content: Multi-Cloud Developer having passion towards Machine Learning, Data Science, Games and Books
 
     socialIcons:
         - name: linkedin
@@ -78,7 +78,7 @@ params:
         hiddenInSingle: true # hide on single page
 
     editPost:
-        URL: "https://github.com/<path_to_repo>/content"
+        URL: "https://github.com/KrishnaChaitanya1/KrishnaChaitanya1.github.io/tree/main/content"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
