@@ -1,6 +1,6 @@
 ---
-title: "Books that I am reading"
-date: 2021-08-01T19:30:03+05:30
+title: "Books that are currently in pipeline to be read"
+date: 2021-08-10T11:11:03+05:30
 weight: 1
 # aliases: ["/first"]
 tags: ["books"]
@@ -28,12 +28,12 @@ cover:
     hidden: true # only hide on current single page
 ---
 
-I normally read 4 or 5 books which comprises various genres. I do this keep the reading process fun and not get bored.
+These are the books that are next in the reading pipeline.
 
-Here are the list of books I'm reading currently.
-
-1. **The Fellowship of The Ring** by J.R.R. Tolkien
-2. **The Wind-Up Bird Chronicle** by Haruki Murakami
-3. **Iliad** by Homer, Translated by E. V. Rieu
-4. **Telugu vaari Vaarasatwam** by Eemani Sivanaagi Reddy and Racherla Ganapathy (Telugu)
-5. **Death** by Sadhguru
+1. **Thinking, Fast and Slow** by Daniel Kahneman
+2. **Meditations** by Marcus Aurelius
+3. **Botchan** by Natsume Soseki
+4. **The Sublime Object of Idealogy** by Slavoj Zizek
+5. **Infinite Jest** by David Foster Wallace
+6. **Karma** by Sadhguru
+7. **Freedom from the Known** by Jiddu Krishnamurti
